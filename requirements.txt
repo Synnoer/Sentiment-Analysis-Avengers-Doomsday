@@ -1,0 +1,13 @@
+
+pandas
+numpy
+spacy
+tqdm
+matplotlib
+transformers
+scikit-learn
+tensorflow
+gensim
+python-dotenv
+praw
+google-api-python-client
